@@ -1,0 +1,27 @@
+{
+  "name": "teehee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djmcdonald/teehee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djmcdonald/teehee/issues"
+  },
+  "homepage": "https://github.com/djmcdonald/teehee#readme",
+  "dependencies": {
+    "https-proxy-agent": "^1.0.0",
+    "johnny-five": "^0.9.60",
+    "lodash": "^4.14.0",
+    "minimist": "^1.2.0",
+    "node-slack": "0.0.7",
+    "request": "^2.74.0"
+  }
+}
